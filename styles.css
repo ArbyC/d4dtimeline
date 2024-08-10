@@ -27,7 +27,7 @@ body {
     overflow-y: auto;
     scroll-behavior: smooth;
     position: relative;
-    animation: scrollTimeline 30s linear infinite;
+    animation: scrollTimeline 100s linear infinite;
     background-color: rgba(255, 255, 255, 0.7); 
 }
 
